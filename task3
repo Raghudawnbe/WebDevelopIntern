@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Webpage design</title>
+        <link rel="stylesheet" href="S1.css">
+    </head>
+    <body>
+        <div class="top">
+            <ul>
+                <li><h1 class="head">PraRoz</h1></li>
+                <li>Home</li>
+                <li>About</li>
+                <li>Service</li>
+                <li>Design</li>
+                <li>Contact</li>
+                <li class="s">
+                  <input class="one" type="search" placeholder="type to search" height="5px">
+                  <button id="two">search</button>
+                  </li>
+                
+            </ul>
+        </div>
+        
+
+        <div class="form">
+           <div class="l"> <h2 class="lo">Login Here</h2></div>
+           <input class="te" type="gmail" placeholder="Enter gmail">
+            <input class="te" type="password" placeholder="Enter password" >
+            <h2 class="login">Login</h2>
+            <p class="p">Don't have an account?<br>
+            <a class="an" href="#">Sin up</a>&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsphere</p>
+        </div>
+        
+
+        <div class="sty"><h1 class="stt">web Design & <br> Development <br> Course </h1></div>
+        <div class="sty1"><p class="sttp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi iure nostrum dolore minima distinctio voluptatibus assumenda officia aliquid et deserunt nihil dignissimos iusto nam soluta dolor, consequuntur officiis esse? Itaque quis doloremque eius nihil totam, laudantium, et necessitatibus optio quidem facilis voluptatum amet illo adipisci! Inventore ratione id repellat perferendis.</p></div>
+        <div class="sty2"><h1>ksj</h1></div>
+        <div class="sty3"></div>
+        
+        
+
+       
+        
+        
+
+        
+
+    </body>
+</html>
